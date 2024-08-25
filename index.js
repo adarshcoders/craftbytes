@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By Animecx","Scanning Bots"];
+const statusMessages = ["💨 Made By Animecx","🔎 Scanning Bots"];
 
 
 let currentIndex = 0;
